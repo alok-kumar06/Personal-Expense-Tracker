@@ -1,0 +1,13 @@
+# Your personal data (never upload this)
+expenses.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
